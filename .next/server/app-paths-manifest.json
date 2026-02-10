@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/submit-no/route": "app/api/submit-no/route.js",
+  "/api/submit-yes/route": "app/api/submit-yes/route.js",
+  "/not-interested/page": "app/not-interested/page.js",
+  "/page": "app/page.js",
+  "/quick-video/page": "app/quick-video/page.js",
+  "/yes-build/page": "app/yes-build/page.js"
+}

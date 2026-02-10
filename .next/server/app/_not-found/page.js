@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__e00c4cfc._.js")
+R.c("server/chunks/ssr/bc0ba_next_dist_5c761afa._.js")
+R.c("server/chunks/ssr/bc0ba_next_dist_esm_build_templates_app-page_49094dc6.js")
+R.c("server/chunks/ssr/[root-of-the-server]__bf64b108._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__bfe1653c._.js")
+R.c("server/chunks/ssr/bc0ba_next_dist_d68fbe11._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__3614db2b._.js")
+R.c("server/chunks/ssr/bc0ba_next_dist_client_components_24faf150._.js")
+R.c("server/chunks/ssr/bc0ba_next_dist_client_components_builtin_forbidden_af41e16e.js")
+R.c("server/chunks/ssr/darling-electric-site__next-internal_server_app__not-found_page_actions_d9d729f2.js")
+R.m(92413)
+module.exports=R.m(92413).exports
