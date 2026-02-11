@@ -7,7 +7,18 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-serif"
 
 export const metadata: Metadata = {
     title: "Darling Electric | Brooksville Electrician",
-    description: "Serving Brooksville and Hernando County since 2001. Safe, reliable electrical service.",
+    description: "Trusted service since 2001. Safe, reliable electrical work for your home. Watch now.",
+    openGraph: {
+        title: "Darling Electric | Trusted Electricians",
+        description: "Trusted service since 2001. Safe, reliable electrical work for your home. Watch now.",
+        type: "website",
+        url: "https://darling-electric.vercel.app",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Darling Electric | Trusted Electricians",
+        description: "Trusted service since 2001.",
+    }
 };
 
 export default function RootLayout({
