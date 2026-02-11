@@ -43,7 +43,7 @@ function QuickVideoContent() {
                     backgroundColor: '#f1f5f9'
                 }}>
                     <iframe
-                        src="https://www.loom.com/embed/a5189b6855d94053ac57ce296f42a514"
+                        src="https://www.loom.com/embed/a3aae6a7fdb94e00ad0a6a294ec5893d"
                         frameBorder="0"
                         allowFullScreen
                         style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
